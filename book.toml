@@ -1,0 +1,6 @@
+[book]
+authors = ["Grandao"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ziglef's Scattered Thoughts"
