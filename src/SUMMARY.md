@@ -14,3 +14,7 @@
 
 
 # Scattered Thoughts
+
+[Thanks for visiting!]()
+
+-----------
