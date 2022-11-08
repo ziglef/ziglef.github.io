@@ -1,6 +1,25 @@
 [book]
 authors = ["Rui Grandão"]
+title = "Ziglef's Scattered Thoughts"
+description = "Writing down what's on my head. One file at a time."
 language = "en"
 multilingual = false
 src = "src"
-title = "Ziglef's Scattered Thoughts"
+
+[build]
+build-dir = "book"
+create-missing = false
+use-default-preprocessors = true
+
+[output.html]
+no-section-label = true
+default-theme = "Ayu"
+git-repository-url = "https://github.com/ziglef/ziglef.github.io"
+git-repository-icon = "fa-github"
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = true
+level = 0
